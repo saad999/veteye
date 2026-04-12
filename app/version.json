@@ -1,6 +1,6 @@
 {
-  "db_version": 5,
-  "image_ids": [],
+  "db_version": 1,
+  "image_ids": [1],
   "drugs": [
     {
       "id": 858,
