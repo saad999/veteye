@@ -1,6 +1,6 @@
 {
   "db_version": 1,
-  "image_ids": [8581],
+  "image_ids": [8581,858],
   "drugs": [
     {
       "id": 858,
@@ -15,7 +15,7 @@
 ,
     {
       "id": 8581,
-      "name": "Vita",
+      "name": "FAc",
       "active_principle": "Amoxicillin",
       "action": "Antibiotic",
       "package": "100 ml",
@@ -26,7 +26,7 @@
 ,
         {
       "id": 8582,
-      "name": "Vita2",
+      "name": "Fac2",
       "active_principle": "",
       "action": "vaccine",
       "package": "",
