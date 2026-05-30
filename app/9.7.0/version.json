@@ -1,0 +1,40 @@
+[
+  {
+    "db_version": 20260530,
+    "db_update": {
+      "image_ids": [8581, 858, 2],
+      "drugs": [
+        {
+          "id": 2,
+          "package": "100 ml vial-50 ml vial",
+          "notify": 1
+        },
+        {
+          "id": 858,
+          "name": "Nobilis wbs",
+          "active_principle": "dd",
+          "action": "vaccine",
+          "package": "ss",
+          "company": "ss",
+          "category": "Ca",
+          "description": "COMPOSITION\n- C",
+          "notify": 1
+        }
+      ]
+    }
+  },
+  {
+    "db_version": 20260531,
+    "db_update": {
+      "image_ids": [8581, 858, 2],
+      "drugs": []
+    }
+  },
+  {
+    "db_version": 20260532,
+    "db_update": {
+      "image_ids": [8581, 858, 2],
+      "drugs": []
+    }
+  }
+]
