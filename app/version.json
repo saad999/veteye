@@ -1,7 +1,12 @@
 {
-  "db_version": 5,
+  "db_version": 7,
   "image_ids": [8581,858,2],
   "drugs": [
+    {
+      "id": 2,
+      "package": "100 ml vial-50 ml vial",
+       "notify": 1
+    },
     {
       "id": 858,
       "name": "Nobilis wbs",
