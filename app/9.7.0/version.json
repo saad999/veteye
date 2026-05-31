@@ -41,5 +41,18 @@
         }
       ]
     }
+  },
+  {
+    "db_version": 20260532,
+    "db_update": {
+      "image_ids": [2],
+      "drugs": [
+        {
+          "id": 2,
+          "package": "500 ml vial",
+          "notify": 1
+        }
+      ]
+    }
   }
 ]
