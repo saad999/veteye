@@ -6,7 +6,7 @@
       "drugs": [
         {
           "id": 2,
-          "package": "100 ml vial-50 ml vial",
+          "package": "ov",
           "notify": 1
         },
         {
@@ -31,7 +31,7 @@
         {
           "id": 6,
           "action": "ccccx",
-          "package": "100 ml vial-50 ml vial",
+          "package": "100 ml vialhp",
           "notify": 1
         },
         {
