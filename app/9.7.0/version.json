@@ -26,24 +26,10 @@
   {
     "db_version": 20260531,
     "db_update": {
-      "image_ids": [8581, 858, 2],
-      "drugs": []
-    }
-  },
-  {
-    "db_version": 20260532,
-    "db_update": {
-      "image_ids": [8581, 858, 2],
-      "drugs": []
-    }
-  },
-  {
-    "db_version": 20260533,
-    "db_update": {
-      "image_ids": [5],
+      "image_ids": [6],
       "drugs": [
         {
-          "id": 5,
+          "id": 6,
           "action": "ccccx",
           "package": "100 ml vial-50 ml vial",
           "notify": 1
@@ -51,7 +37,6 @@
         {
           "id": 4,
           "action": "cccc44x",
-          "package": "100 ml vial-50 ml vial",
           "notify": 0
         }
       ]
